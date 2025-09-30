@@ -3,7 +3,7 @@
         'name' => 'socialmedia/socialmedia',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '7cb7fe3b9cadfc57a5509ca73660781e5465d997',
+        'reference' => '9afc485012898862ee9c34648079573969091fba',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'socialmedia/socialmedia' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '7cb7fe3b9cadfc57a5509ca73660781e5465d997',
+            'reference' => '9afc485012898862ee9c34648079573969091fba',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
