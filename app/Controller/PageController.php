@@ -4,8 +4,11 @@
 
     class PageController{
         
+        //Funcao mostrar pagina
         public static function getPage(){
-            return ViewManager::render("page");
+            return ViewManager::render("page",["title"=>"SocialMedia|Home",
+                   "content"=>"SocialMedia|Home",]
+                );
 
         }
 
